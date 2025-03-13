@@ -19,8 +19,7 @@ This project is a Natural Language Processing (NLP) chatbot developed as part of
 1️⃣ Clone the Repository
 Run the following command in your terminal:
 
-git clone https://github.com/barnwal-ankit/Chatbot_using_NLP.git
-cd Chatbot_using_NLP
+git clone https://github.com/Asritavakkapatla/chatbot_using_NLP_AICTE/edit/main/README.md
 2️⃣ Install Required Dependencies
 Ensure you have Python 3.7+ installed. Then, install the required dependencies:
 
