@@ -14,8 +14,7 @@ nltk.data.path.append(os.path.abspath("nltk_data"))
 nltk.download('punkt')
 
 # Load intents from the JSON file
-file_path = os.path.abspath("/Users/raghunandanms/Documents/Work/AICTE Internship 4/Implementation of Chatbot using NLP/Week-wise Report files/Week 1/intents.json")
-with open(file_path, "r") as file:
+file_path = os.path.abspath("file_path = os.path.abspath("C:/Users/226m1/Downloads/Chatbot_using_NLP_AICTE_Cycle4-main/Chatbot_using_NLP_AICTE_Cycle4-main/intents.json")
     intents = json.load(file)
 
 # Create the vectorizer and classifier
