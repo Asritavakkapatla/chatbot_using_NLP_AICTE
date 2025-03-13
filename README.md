@@ -1,7 +1,34 @@
-Chatbot_using_NLP_AICTE_Cycle4
-Training for the project on Implementation of Chatbot using NLP
+📌 Description
+This project is a Natural Language Processing (NLP) chatbot developed as part of a 4-week AICTE internship under Edunet Foundation. The chatbot is trained to understand user queries and provide relevant responses. It utilizes TF-IDF vectorization and Logistic Regression for intent classification.
 
-To run streamlit use the command as
+🚀 Features
+✔️ Handles multiple intents like greetings, finance, investing, freelancing, negotiation, etc.
+✔️ Uses TF-IDF to transform text data into numerical form.
+✔️ Implements Logistic Regression for intent classification.
+✔️ Tokenizes input using NLTK’s word_tokenize.
+✔️ Built with Streamlit for an interactive web interface.
+
+🛠️ Technologies & Libraries Used
+📌 Python – Core programming language
+📌 NLTK – Tokenization & text processing
+📌 Scikit-learn – TF-IDF vectorization & Logistic Regression
+📌 NumPy – Data manipulation
+📌 Streamlit – Web app framework for chatbot UI
+
+💻 Installation Guide
+1️⃣ Clone the Repository
+Run the following command in your terminal:
+
+git clone https://github.com/barnwal-ankit/Chatbot_using_NLP.git
+cd Chatbot_using_NLP
+2️⃣ Install Required Dependencies
+Ensure you have Python 3.7+ installed. Then, install the required dependencies:
+
+pip install -r requirements.txt
+If the requirements.txt file is missing, manually install the necessary packages:
+
+pip install nltk numpy scikit-learn streamlit
+3️⃣ Run the Chatbot
+Launch the chatbot using Streamlit:
 
 streamlit run chatbot.py
-The above command has to be run in command prompt by navigating to the folder or using VSC terminal or Terminal of Mac. But navigating to the folder where you have script is important.
