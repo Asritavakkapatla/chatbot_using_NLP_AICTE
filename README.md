@@ -22,18 +22,16 @@ This project is a Natural Language Processing (NLP) chatbot developed as part of
 
 1️⃣ Clone the Repository
 Run the following command in your terminal:
-
 git clone
- https://github.com/Asritavakkapatla/chatbot_using_NLP_AICTE/edit/main/README.md
+https://github.com/Asritavakkapatla/chatbot_using_NLP_AICTE/edit/main/README.md
 
 2️⃣ Install Required Dependencies
-Ensure you have Python 3.7+ installed. Then, install the required dependencies:
-
+Ensure you have Python 3.7+ installed. Then, 
+install the required dependencies:
 pip install -r requirements.txt
 If the requirements.txt file is missing, manually install the necessary packages:
-
 pip install nltk numpy scikit-learn streamlit
+
 3️⃣ Run the Chatbot
 Launch the chatbot using Streamlit:
-
 streamlit run chatbot.py
