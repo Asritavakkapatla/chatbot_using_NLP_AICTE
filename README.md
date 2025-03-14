@@ -1,9 +1,7 @@
 📌 Description :-
-
 This project is a Natural Language Processing (NLP) chatbot developed as part of a 4-week AICTE internship under Edunet Foundation. The chatbot is trained to understand user queries and provide relevant responses. It utilizes TF-IDF vectorization and Logistic Regression for intent classification.
 
 🚀 Features :-
-
 ✔️ Handles multiple intents like greetings, finance, investing, freelancing, negotiation, etc.
 ✔️ Uses TF-IDF to transform text data into numerical form.
 ✔️ Implements Logistic Regression for intent classification.
@@ -11,7 +9,6 @@ This project is a Natural Language Processing (NLP) chatbot developed as part of
 ✔️ Built with Streamlit for an interactive web interface.
 
 🛠️ Technologies & Libraries Used :-
-
 📌 Python – Core programming language
 📌 NLTK – Tokenization & text processing
 📌 Scikit-learn – TF-IDF vectorization & Logistic Regression
@@ -19,7 +16,6 @@ This project is a Natural Language Processing (NLP) chatbot developed as part of
 📌 Streamlit – Web app framework for chatbot UI
 
 💻 Installation Guide :-
-
 1️⃣ Clone the Repository
 Run the following command in your terminal:
 git clone
